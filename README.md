@@ -1,5 +1,5 @@
 # Bài tập về nhà số 3
-Install virtual environment on Windows
+Install environment on Windows
 ```
 pip install -r requirements.txt
 ```
