@@ -3,7 +3,7 @@ Install environment on Windows
 ```
 pip install -r requirements.txt
 ```
-Run web sever
+Run web server
 ```
-python sever.py
+python server.py
 ```
